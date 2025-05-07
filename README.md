@@ -34,7 +34,7 @@
 
 ### 📫 How to Reach Me
 
-- 🔗 LinkedIn: [linkedin.com/in/anirudh](www.linkedin.com/in/s-anirudh)
+- 🔗 LinkedIn: [www.linkedin.com/in/s-anirudh](www.linkedin.com/in/s-anirudh)
 - 💌 Email: s.anirudh.official@gmail.com 
 
 ---
