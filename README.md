@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Anirudh</h1>
 
 <p align="center">
-  <em>Aspiring Software Engineer | MERN Stack Developer | 3rd Year CSE @ NIE Mysuru</em>
+  <strong>Aspiring Software Engineer | MERN Stack Developer | 3rd Year CSE @ NIE Mysuru</strong>strong>
 </p>
 
 ---
