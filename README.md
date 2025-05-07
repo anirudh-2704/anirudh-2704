@@ -10,10 +10,6 @@
 
 - 🎓 I'm currently pursuing my B.E. in Computer Science & Engineering at NIE Mysuru  
 - 🌐 I’m passionate about Full Stack Web Development  
-- 🔭 I’m currently working on a **Smart Home Security System** using IoT and Firebase  
-- 💬 Ask me about: DSA, React, MongoDB, Express, Node.js, Python, and JavaScript  
-- ⚡ Fun fact: I enjoy building personal projects to learn by doing!
-
 ---
 
 ### 🧰 Tech Stack & Tools
